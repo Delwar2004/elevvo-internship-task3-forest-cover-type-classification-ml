@@ -140,7 +140,7 @@ forest-cover-type-classification-ml/
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
-└── .gitignore
+
 ```
 
 ---
